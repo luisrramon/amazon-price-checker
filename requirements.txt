@@ -1,0 +1,6 @@
+fastapi==0.110
+uvicorn==0.29.0
+requests==2.31.0
+BeautifulSoup4==4.12.3
+pandas==2.2.1
+sqlalchemy==2.0.29
