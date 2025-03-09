@@ -2,7 +2,7 @@ from fastapi import FastAPI
 import requests
 from bs4 import BeautifulSoup
 import pandas as pd
-from database import SessionLocal, Product
+from backend.database import SessionLocal, Product
 
 # Initialize the FastAPI app
 app = FastAPI()
